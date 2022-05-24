@@ -70,8 +70,8 @@ const styles = StyleSheet.create({
         alignItems: "center"
     },
     profileImage: {
-        width: "100%",
-        height: "100%",
+        width: "800%",
+        height: "800%",
         resizeMode: "contain",
         borderRadius: RFValue(100)
     },
